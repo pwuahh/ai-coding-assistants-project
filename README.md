@@ -11,9 +11,9 @@ In addition, we want to cover some of the downsides of using AI, such as receivi
 
 ## Group Members
 
-- **Daniel Lubimov** - Research and introduction
-- **Marcus Ghods** - Presentation script and current event
-- **Trevelle Pain-Wilson** - PowerPoint slides and video production
+- **Daniel Lubimov** - 077631109 - Research and introduction
+- **Marcus Ghods** - 139183255 - DPresentation script and current event
+- **Trevelle Pain-Wilson** - 141463257 - PowerPoint slides and video production
 
 ## Project Files
 
