@@ -21,6 +21,12 @@ In addition, we want to cover some of the downsides of using AI, such as receivi
 - Presentation script - Marcus is working on this
 - PowerPoint slides - Trevelle is working on this
 
+## Project Planning
+
+- [Project Plan](docs/PROJECT_PLAN.md)
+- [Requirements and Evidence Checklist](docs/REQUIREMENTS.md)
+- [Collaboration Workflow](CONTRIBUTING.md)
+
 ## Presentation
 
 We are developing a presentation about the impact of AI coding assistants on software development. It includes explanations of what these assistants are used for, why developers use them, and some of the disadvantages of using them.
