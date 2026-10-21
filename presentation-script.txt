@@ -1,2 +1,3 @@
 Daniel (slide 1): Hi everyone. We're Daniel, Marcus, and Trevelle, and our topic is the rise of AI coding assistants, especially GitHub Copilot.
 Daniel (slide 1): Artificial intelligence is becoming a bigger part of software development. Programmers can use these tools to help with coding, fixing errors, and understanding complicated code.
+Daniel (slide 1): Copilot can suggest code and answer programming questions. We're looking at what makes it useful, how it's changing programming, and the problems developers should be aware of.
