@@ -2,3 +2,4 @@ Daniel (slide 1): Hi everyone. We're Daniel, Marcus, and Trevelle, and our topic
 Daniel (slide 1): Artificial intelligence is becoming a bigger part of software development. Programmers can use these tools to help with coding, fixing errors, and understanding complicated code.
 Daniel (slide 1): Copilot can suggest code and answer programming questions. We're looking at what makes it useful, how it's changing programming, and the problems developers should be aware of.
 Marcus (slide 2): The current event in our notes is GitHub's announcement of a new Copilot coding agent on May 19, 2025.
+Marcus (slide 2): Before this, Copilot was mainly known for suggesting code while someone was programming. The newer coding agent can take on assigned tasks and make changes to a project.
