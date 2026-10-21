@@ -11,3 +11,4 @@ Trevelle (slide 4): But these tools aren't always reliable. Sometimes AI generat
 Trevelle (slide 4): It can also suggest code with security problems or give explanations that aren't accurate. Beginners might rely too much on AI instead of learning how to program themselves.
 Trevelle (slide 4): That could become a problem when they need to solve something without assistance. Developers should always read, understand, and test AI-generated code before using it.
 Marcus (slide 5): The 2025 Stack Overflow Developer Survey shows how common AI tools have become. About 84 percent of respondents either use them or plan to use them.
+Marcus (slide 5): At the same time, around 46 percent said they distrust the accuracy of AI-generated results. So, interest in AI doesn't mean developers completely trust it.
