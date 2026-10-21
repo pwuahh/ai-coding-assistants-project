@@ -4,10 +4,10 @@
 
 - Daniel (`pwuahh`): research GitHub Copilot.
 - Marcus (`Flametex`): write the presentation script.
-- Trey (`Trevelle`, assignment access to be confirmed): create the PowerPoint slides.
+- Trey (`TrevellePain-Wilson`, identified by existing issue #3): create the PowerPoint slides.
 - All members: participate in narration, meaningful contributions, discussion, and review.
 
-Student numbers and recording/editing/upload ownership are still pending. GitHub rejected issue assignment to `Trevelle` during setup; confirm the account and collaborator access before assigning it.
+Student numbers and recording/editing/upload ownership are still pending. Use the existing assigned issues #1–#3 for research, script, and slides, and #7–#8 for recording and final collaboration checks.
 
 ## Work from an issue and a branch
 
