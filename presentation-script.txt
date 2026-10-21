@@ -1,18 +1,23 @@
 Daniel (slide 1): Hi everyone. We're Daniel, Marcus, and Trevelle, and our topic is the rise of AI coding assistants, especially GitHub Copilot.
 Daniel (slide 1): Artificial intelligence is becoming a bigger part of software development. Programmers can use these tools to help with coding, fixing errors, and understanding complicated code.
 Daniel (slide 1): Copilot can suggest code and answer programming questions. We're looking at what makes it useful, how it's changing programming, and the problems developers should be aware of.
-Marcus (slide 2): The current event in our notes is GitHub's announcement of a new Copilot coding agent on May 19, 2025.
-Marcus (slide 2): Before this, Copilot was mainly known for suggesting code while someone was programming. The newer coding agent can take on assigned tasks and make changes to a project.
-Marcus (slide 2): It can also create pull requests for developers to review. AI is starting to help with larger parts of a project, although a real developer still needs to check its work.
-Daniel (slide 3): So, why would developers want to use it? One reason is saving time. AI can help write repetitive code so programmers can focus on more important tasks.
-Daniel (slide 3): It can also explain code or programming concepts that someone doesn't understand, suggest fixes when something isn't working, and help developers create tests.
-Daniel (slide 3): For teamwork, tools like Copilot can suggest changes through pull requests, making it easier for teams to review them. That can make programming more convenient.
-Trevelle (slide 4): But these tools aren't always reliable. Sometimes AI generates code that looks correct but doesn't actually work, which is why checking the result matters.
-Trevelle (slide 4): It can also suggest code with security problems or give explanations that aren't accurate. Beginners might rely too much on AI instead of learning how to program themselves.
-Trevelle (slide 4): That could become a problem when they need to solve something without assistance. Developers should always read, understand, and test AI-generated code before using it.
-Marcus (slide 5): The 2025 Stack Overflow Developer Survey shows how common AI tools have become. About 84 percent of respondents either use them or plan to use them.
-Marcus (slide 5): At the same time, around 46 percent said they distrust the accuracy of AI-generated results. So, interest in AI doesn't mean developers completely trust it.
-Marcus (slide 5): Many developers are interested in these tools, but they still have concerns about how reliable they are. That's another reason human review remains important.
-Trevelle (slide 6): We think AI coding assistants will continue becoming more common. They can save time, help people learn, and make certain programming tasks easier.
-Trevelle (slide 6): However, they shouldn't replace actual programming knowledge. Developers still need to understand what their code does and make sure it works correctly.
-Trevelle (slide 6): AI is a helpful tool, but the person using it is still responsible for the final result. Thanks for listening.
+
+Marcus (slide 2): The current event is GitHub’s introduction of the new coding agent called Copilot on May 19, 2025.
+Marcus (slide 2): Prior to this, Copilot was more popular for code suggestions when someone was developing. The new coding agent can not only complete tasks assigned to it but also change the project.
+Marcus (slide 2): In addition, it can even create pull requests for reviewing by developers. Thus, AI is now used to complete a greater number of actions, however, the role of a developer should be mentioned.
+
+Daniel (slide 3): Why would anyone need such an AI model in programming then? First of all, because of saving time. It will generate the code for you and let you concentrate on more crucial things.
+Daniel (slide 3): AI can explain some code to you, provide suggestions in case you have encountered some issues in your project, and help you build some tests for it.
+Daniel (slide 3): In case of collaboration, AI models like Copilot can make pull requests for you, thus making coding more comfortable.
+
+Trevelle (slide 4): However, this software is not 100 percent accurate because sometimes AI suggests the code that seems correct but does not work. This is the reason why verification of results is essential.
+Trevelle (slide 4): Besides, sometimes it suggests code with security vulnerabilities or gives wrong explanations. Novices can get too dependent on the AI software instead of studying programming techniques.
+Trevelle (slide 4): This may be an issue when such developers have to solve tasks on their own without any help. AI-suggested code has to be checked before use.
+
+Marcus (Slide 5): One way that the prevalence of AI technologies can be seen is in the 2025 Stack Overflow Developer Survey. Over 84 percent of respondents were using these technologies or plan on using them.
+Marcus (Slide 5): However, approximately 46 percent of those surveyed claimed that they were skeptical of the accuracy of the AI-generated findings. This means that interest in AI does not imply complete confidence in it.
+Marcus (Slide 5): While many developers find AI technologies interesting, there are some doubts regarding their reliability.
+
+Trevelle (Slide 6): AI coding assistants will definitely become more popular because they can potentially save some time, facilitate learning, and simplify some programming tasks.
+Trevelle (Slide 6): But they cannot substitute the developer’s programming skills because the developer should know what his or her code is doing and work correctly.
+Trevelle (Slide 6): It is important to note that AI is just a useful tool while the individual is responsible for its implementation. Thank you for your attention!
