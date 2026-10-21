@@ -6,3 +6,4 @@ Marcus (slide 2): Before this, Copilot was mainly known for suggesting code whil
 Marcus (slide 2): It can also create pull requests for developers to review. AI is starting to help with larger parts of a project, although a real developer still needs to check its work.
 Daniel (slide 3): So, why would developers want to use it? One reason is saving time. AI can help write repetitive code so programmers can focus on more important tasks.
 Daniel (slide 3): It can also explain code or programming concepts that someone doesn't understand, suggest fixes when something isn't working, and help developers create tests.
+Daniel (slide 3): For teamwork, tools like Copilot can suggest changes through pull requests, making it easier for teams to review them. That can make programming more convenient.
