@@ -12,3 +12,4 @@ Trevelle (slide 4): It can also suggest code with security problems or give expl
 Trevelle (slide 4): That could become a problem when they need to solve something without assistance. Developers should always read, understand, and test AI-generated code before using it.
 Marcus (slide 5): The 2025 Stack Overflow Developer Survey shows how common AI tools have become. About 84 percent of respondents either use them or plan to use them.
 Marcus (slide 5): At the same time, around 46 percent said they distrust the accuracy of AI-generated results. So, interest in AI doesn't mean developers completely trust it.
+Marcus (slide 5): Many developers are interested in these tools, but they still have concerns about how reliable they are. That's another reason human review remains important.
