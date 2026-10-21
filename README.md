@@ -1,54 +1,48 @@
-# AI Coding Assistants: From Suggestions to Software Agents
+# The Emergence of AI Code Assistants
 
-CEP146 software development current-event group project.
+**Course:** CEP146 - Essential Tooling for Programmers  
+**Project:** Software Development Current Event
 
-## Topic
+## Information About the Project
 
-We will investigate how AI coding assistants are changing software development, from suggesting code to carrying out development tasks. The presentation will explain a specific recent event, assess evidence of benefits and limitations, and describe the developer's responsibility for verification. The event and factual claims will be selected and sourced during Stage 2.
+We are investigating how artificial intelligence affects programming, specifically looking at GitHub Copilot, a tool that helps developers write code, find errors, and work on projects more efficiently.
 
-## Team
+In addition, we want to cover some of the downsides of using AI, such as receiving incorrect information and becoming too dependent on AI without fully understanding the code.
 
-Student numbers remain pending and must be supplied before submission. The three members and roles below were confirmed by the requester.
+## Group Members
 
-| Member | Student number | GitHub username | Proposed responsibility |
-| --- | --- | --- | --- |
-| Marcus | Pending | [Flametex](https://github.com/Flametex) | Write the presentation script |
-| Daniel | Pending | [pwuahh](https://github.com/pwuahh) | Research GitHub Copilot |
-| Trey | Pending | [TrevellePain-Wilson](https://github.com/TrevellePain-Wilson) | Create the PowerPoint slides |
+- **Daniel Lubimov** - Research and introduction
+- **Marcus Ghods** - Presentation script and current event
+- **Trevelle Pain-Wilson** - PowerPoint slides and video production
 
-These roles are assignments, not records of completed contributions. All members must make their own meaningful contributions and participate in narration and review. Recording, editing, and upload ownership still need agreement.
+## Project Files
 
-## Video
+- [Research Notes](research-notes.md) - Research on GitHub Copilot and AI coding assistants
+- Presentation script - Marcus is working on this
+- PowerPoint slides - Trevelle is working on this
 
-**Public YouTube link: pending — video has not been recorded or published.**
+## Project Planning
 
-Target length: **2:30–3:00 minutes**. Use the students' own voices; the assignment prohibits AI-generated voices.
+- [Project Plan](docs/PROJECT_PLAN.md)
+- [Requirements and Evidence Checklist](docs/REQUIREMENTS.md)
+- [Collaboration Workflow](CONTRIBUTING.md)
 
-## Stages
+## Presentation
 
-1. Repository setup and task plan — preparation complete on `stage-1-project-setup`; teammate review and merge pending.
-2. Research — select a recent event, verify primary sources, and record limitations.
-3. Presentation materials — write a timed script and build supporting visuals.
-4. Recording and submission preparation — students record, review, publish, and complete the checklist.
+We are developing a presentation about the impact of AI coding assistants on software development. It includes explanations of what these assistants are used for, why developers use them, and some of the disadvantages of using them.
 
-Work pauses after each stage until the requester says **continue**. That instruction resumes project preparation; it does not substitute for a teammate's review.
+We will add the link to our YouTube video once the presentation has been recorded and uploaded.
 
-## Project materials
+**YouTube Video:** Coming soon
 
-- [Stage plan](docs/PROJECT_PLAN.md)
-- [Requirements and evidence checklist](docs/REQUIREMENTS.md)
-- [Collaboration workflow](CONTRIBUTING.md)
+## Collaboration Method
 
-Research, script, and visuals will be added in their respective stages. Existing issue #3 identifies Trey's account as `TrevellePain-Wilson`.
+We are using GitHub to plan our project and work together. Everyone has their own tasks, and we are using Issues, branches, and pull requests to keep everything organized and make sure everyone can contribute.
 
-## Task tracking
+We will also use GitHub Discussions to share ideas, discuss our progress, and provide feedback before completing the project.
 
-- [Daniel: research GitHub Copilot](https://github.com/pwuahh/ai-coding-assistants-project/issues/1)
-- [Marcus: presentation script](https://github.com/pwuahh/ai-coding-assistants-project/issues/2)
-- [Trey: PowerPoint slides](https://github.com/pwuahh/ai-coding-assistants-project/issues/3)
-- [Recording, editing, and publication](https://github.com/pwuahh/ai-coding-assistants-project/issues/7)
-- [Metadata, peer review, and Discussions](https://github.com/pwuahh/ai-coding-assistants-project/issues/8)
+## Sources
 
-## Status and transparency
-
-This repository is being prepared with AI assistance. Commit authorship must reflect the account making each change; no generated commits, reviews, or discussions should be presented as other students' work. Frequent commits alone do not demonstrate distributed teamwork or guarantee a grade.
+- [GitHub Copilot Coding Agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/)
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
+- [GitHub Copilot Documentation](https://docs.github.com/en/copilot/)
