@@ -8,15 +8,15 @@ We will investigate how AI coding assistants are changing software development, 
 
 ## Team
 
-Replace every pending entry with accurate information before submission. Add a fourth member if applicable; the assignment requires 3–4 students.
+Student numbers remain pending and must be supplied before submission. The three members and roles below were confirmed by the requester.
 
 | Member | Student number | GitHub username | Proposed responsibility |
 | --- | --- | --- | --- |
-| Pending: member 1 | Pending | Pending | Research and source verification |
-| Pending: member 2 | Pending | Pending | Script and presentation flow |
-| Pending: member 3 | Pending | Pending | Visuals, editing, and upload |
+| Marcus | Pending | [Flametex](https://github.com/Flametex) | Write the presentation script |
+| Daniel | Pending | [pwuahh](https://github.com/pwuahh) | Research GitHub Copilot |
+| Trey | Pending | [Trevelle](https://github.com/Trevelle) | Create the PowerPoint slides |
 
-These roles are proposals, not records of contributions. All members must make their own meaningful contributions and participate in narration and review.
+These roles are assignments, not records of completed contributions. All members must make their own meaningful contributions and participate in narration and review. Recording, editing, and upload ownership still need agreement.
 
 ## Video
 
