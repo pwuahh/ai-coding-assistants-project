@@ -15,3 +15,4 @@ Marcus (slide 5): At the same time, around 46 percent said they distrust the acc
 Marcus (slide 5): Many developers are interested in these tools, but they still have concerns about how reliable they are. That's another reason human review remains important.
 Trevelle (slide 6): We think AI coding assistants will continue becoming more common. They can save time, help people learn, and make certain programming tasks easier.
 Trevelle (slide 6): However, they shouldn't replace actual programming knowledge. Developers still need to understand what their code does and make sure it works correctly.
+Trevelle (slide 6): AI is a helpful tool, but the person using it is still responsible for the final result. Thanks for listening.
