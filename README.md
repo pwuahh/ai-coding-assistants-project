@@ -17,6 +17,8 @@ In addition, we want to cover some of the downsides of using AI, such as receivi
 
 ## Project Files
 
+- [Editable Google Slides presentation](https://docs.google.com/presentation/d/1h1zsp-h-luHYqkPEwrPvLj7txgzKhpHkh4hEo1GU4Bg/edit?usp=drivesdk)
+
 - [Research Notes](research-notes.md) - Research on GitHub Copilot and AI coding assistants
 - Presentation script - Marcus is working on this
 - PowerPoint slides - Trevelle is working on this
