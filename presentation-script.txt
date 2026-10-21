@@ -8,3 +8,4 @@ Daniel (slide 3): So, why would developers want to use it? One reason is saving 
 Daniel (slide 3): It can also explain code or programming concepts that someone doesn't understand, suggest fixes when something isn't working, and help developers create tests.
 Daniel (slide 3): For teamwork, tools like Copilot can suggest changes through pull requests, making it easier for teams to review them. That can make programming more convenient.
 Trevelle (slide 4): But these tools aren't always reliable. Sometimes AI generates code that looks correct but doesn't actually work, which is why checking the result matters.
+Trevelle (slide 4): It can also suggest code with security problems or give explanations that aren't accurate. Beginners might rely too much on AI instead of learning how to program themselves.
