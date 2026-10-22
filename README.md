@@ -21,7 +21,7 @@ In addition, we covered some of the downsides of using AI, such as receiving inc
 - [Editable Google Slides presentation](https://docs.google.com/presentation/d/1h1zsp-h-luHYqkPEwrPvLj7txgzKhpHkh4hEo1GU4Bg/edit?usp=drivesdk)
 - [Research Notes](research-notes.md) - Research on GitHub Copilot and AI coding assistants
 - [Presentation Script](presentation-script.txt) - Completed presentation narration
-- [Presentation Slides (PDF)](<The Rise of AI Coding (3).pdf>) - Completed presentation slides
+- [Presentation Slides (PDF)](https://github.com/pwuahh/ai-coding-assistants-project/blob/main/The%20Rise%20of%20AI%20Coding%20%20(3).pdf) - Completed presentation slides
 
 ## Project Planning
 
